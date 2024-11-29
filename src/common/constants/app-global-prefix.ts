@@ -1,0 +1,3 @@
+const GLOBAL_ENDPOINT_PREFIX = 'api';
+
+export { GLOBAL_ENDPOINT_PREFIX };
